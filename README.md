@@ -1,5 +1,5 @@
-# NAME:RAMKUMAR G
-# REG NO:212223220084
+# NAME:SURIYA RAJ K
+# REG NO:212223040216
 # Linux-File-IO-Systems-locking
 Ex07-Linux File-IO Systems-locking
 # AIM:
